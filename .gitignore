@@ -1,0 +1,20 @@
+# Docker 관련
+*.log
+*.pid
+*.sock
+.env
+
+# MySQL 데이터 및 설정 파일
+practice3/db/mysql/data/
+
+# Node.js 사용 시
+node_modules/
+
+# Python 사용 시
+__pycache__/
+*.pyc
+
+# 기타 IDE/OS 파일
+.DS_Store
+*.swp
+*.swo
